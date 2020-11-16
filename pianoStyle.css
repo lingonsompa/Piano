@@ -9,9 +9,10 @@ body {
 }
 
 ul {
+  font-size: 0.8rem;
   height:15em;
   width:69em;
-  margin-top:22em;
+  margin-top:15rem;
   margin-left: 5em;
   padding:2em 0 0 3em;
   position:relative;
@@ -22,19 +23,19 @@ ul {
 
 .whiteText{
 
-  font-size: 1.5em;
+  font-size: 150%;
 
 }
 
 .blackText{
 
-  font-size: 1em;
+  font-size: 150%;
   color: aliceblue;
 }
 
 
 .white {
-
+  font-size: 1em;
   list-style:none;
   position:relative;
   float:left;
